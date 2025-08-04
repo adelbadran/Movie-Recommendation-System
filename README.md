@@ -60,10 +60,10 @@ It demonstrates three collaborative filtering approaches to recommend movies to 
 
 ```python
 # Recommend movies using user-based CF
-recommend_movies(user_id=10, k=5)
+recommend_movies(10)
 
 # Recommend using item-based CF
-recommend_items(user_id=10, k=5)
+recommend_items(10)
 
 # Recommend using SVD predictions
-recommend_svd(user_id=10, k=5)
+recommend_svd(10)
