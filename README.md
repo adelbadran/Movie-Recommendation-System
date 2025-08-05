@@ -47,7 +47,7 @@ It demonstrates three collaborative filtering approaches to recommend movies to 
 
 ## 🛠️ Tech Stack
 
-- Python 3
+- Python
 - Pandas
 - NumPy
 - Scikit-learn
